@@ -1,7 +1,7 @@
-import enc_fff
+import enc_pr
 try:
-  enc_fff.folder__()
-  enc_fff.licensi()
+  enc_pr.folder__()
+  enc_pr.licensi()
 except Exception as e:
   exit('\n [!] Device tidak support atau lainnya')
 
